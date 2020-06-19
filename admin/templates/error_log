@@ -1,0 +1,5 @@
+[24-Apr-2020 09:17:28 America/Boise] PHP Warning:  mail() expects parameter 4 to be string, array given in /home3/eatatbag/public_html/admin/templates/feedback_page.php on line 174
+[24-Apr-2020 09:17:33 America/Boise] PHP Warning:  mail() expects parameter 4 to be string, array given in /home3/eatatbag/public_html/admin/templates/feedback_page.php on line 174
+[24-Apr-2020 14:57:35 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eatatbag/public_html/admin/templates/deny.php:61) in /home3/eatatbag/public_html/admin/templates/deny.php on line 70
+[24-Apr-2020 15:00:33 America/Boise] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home3/eatatbag/public_html/admin/templates/logout.php on line 1
+[24-Apr-2020 15:08:12 America/Boise] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home3/eatatbag/public_html/admin/templates/logout.php on line 1

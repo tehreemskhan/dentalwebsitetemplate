@@ -1,0 +1,66 @@
+[23-Apr-2020 14:31:39 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 6
+[23-Apr-2020 14:31:39 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 9
+[23-Apr-2020 14:31:46 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 6
+[23-Apr-2020 14:31:46 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 9
+[23-Apr-2020 14:31:46 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/templates/login/login.php on line 11
+[23-Apr-2020 14:31:46 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/eatatbag/public_html/templates/login/login.php on line 13
+[23-Apr-2020 14:31:46 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 6
+[23-Apr-2020 14:31:46 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 9
+[23-Apr-2020 14:31:57 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 6
+[23-Apr-2020 14:31:57 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 9
+[23-Apr-2020 14:34:08 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 6
+[23-Apr-2020 14:34:08 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 9
+[23-Apr-2020 14:34:12 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 6
+[23-Apr-2020 14:34:12 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 9
+[23-Apr-2020 14:34:12 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/templates/login/login.php on line 11
+[23-Apr-2020 14:34:12 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/eatatbag/public_html/templates/login/login.php on line 13
+[23-Apr-2020 14:34:13 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 6
+[23-Apr-2020 14:34:13 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 9
+[23-Apr-2020 14:34:51 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 6
+[23-Apr-2020 14:34:51 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 9
+[23-Apr-2020 14:34:52 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 6
+[23-Apr-2020 14:34:52 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 9
+[23-Apr-2020 14:34:56 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 6
+[23-Apr-2020 14:34:56 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 9
+[23-Apr-2020 14:34:56 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/templates/login/login.php on line 11
+[23-Apr-2020 14:34:56 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/eatatbag/public_html/templates/login/login.php on line 13
+[23-Apr-2020 14:34:56 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 6
+[23-Apr-2020 14:34:56 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 9
+[23-Apr-2020 14:35:07 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 6
+[23-Apr-2020 14:35:07 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 9
+[23-Apr-2020 14:42:10 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 6
+[23-Apr-2020 14:42:10 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 9
+[23-Apr-2020 14:42:15 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 6
+[23-Apr-2020 14:42:15 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 9
+[23-Apr-2020 14:42:15 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/templates/login/login.php on line 11
+[23-Apr-2020 14:42:15 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/eatatbag/public_html/templates/login/login.php on line 13
+[23-Apr-2020 14:42:15 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 6
+[23-Apr-2020 14:42:15 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 9
+[24-Apr-2020 08:19:47 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 9
+[24-Apr-2020 08:19:47 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 12
+[24-Apr-2020 08:19:48 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 9
+[24-Apr-2020 08:19:48 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 12
+[24-Apr-2020 08:25:25 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 9
+[24-Apr-2020 08:25:25 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 12
+[24-Apr-2020 08:25:38 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 9
+[24-Apr-2020 08:25:38 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 12
+[24-Apr-2020 08:25:38 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/templates/login/login.php on line 11
+[24-Apr-2020 08:25:38 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/eatatbag/public_html/templates/login/login.php on line 13
+[24-Apr-2020 08:25:38 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 9
+[24-Apr-2020 08:25:38 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 12
+[24-Apr-2020 08:26:42 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 9
+[24-Apr-2020 08:26:42 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 12
+[24-Apr-2020 08:26:42 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/templates/login/login.php on line 11
+[24-Apr-2020 08:26:42 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/eatatbag/public_html/templates/login/login.php on line 13
+[24-Apr-2020 08:26:42 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 9
+[24-Apr-2020 08:26:42 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 12
+[24-Apr-2020 08:27:01 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 9
+[24-Apr-2020 08:27:01 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 12
+[24-Apr-2020 08:27:01 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/templates/login/login.php on line 11
+[24-Apr-2020 08:27:01 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/eatatbag/public_html/templates/login/login.php on line 13
+[24-Apr-2020 08:27:01 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 9
+[24-Apr-2020 08:27:01 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 12
+[24-Apr-2020 14:53:35 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 9
+[24-Apr-2020 14:53:35 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 12
+[24-Apr-2020 14:53:37 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 9
+[24-Apr-2020 14:53:37 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 12

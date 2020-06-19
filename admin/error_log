@@ -1,0 +1,12 @@
+[23-Apr-2020 14:31:33 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 6
+[23-Apr-2020 14:31:33 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 9
+[23-Apr-2020 14:31:33 America/Boise] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home3/eatatbag/public_html/admin/admin.php:2) in /home3/eatatbag/public_html/admin/admin.php on line 3
+[23-Apr-2020 14:31:33 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/eatatbag/public_html/admin/admin.php:2) in /home3/eatatbag/public_html/admin/admin.php on line 3
+[23-Apr-2020 14:42:22 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 6
+[23-Apr-2020 14:42:22 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 9
+[23-Apr-2020 14:42:22 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/admin/admin.php on line 5
+[23-Apr-2020 14:42:22 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/admin/admin.php on line 8
+[23-Apr-2020 14:42:22 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/eatatbag/public_html/admin/admin.php on line 10
+[23-Apr-2020 14:42:22 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/eatatbag/public_html/admin/admin.php on line 12
+[23-Apr-2020 14:42:22 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/admin/admin.php on line 249
+[23-Apr-2020 14:42:22 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/eatatbag/public_html/admin/admin.php on line 251

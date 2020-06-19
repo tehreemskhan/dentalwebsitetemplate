@@ -1,0 +1,8 @@
+[23-Apr-2020 14:31:19 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 6
+[23-Apr-2020 14:31:19 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 9
+[23-Apr-2020 14:31:19 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/appointments/request/request.php on line 11
+[23-Apr-2020 14:31:19 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/eatatbag/public_html/appointments/request/request.php on line 13
+[24-Apr-2020 14:53:26 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/eatatbag/public_html/database/db.php on line 9
+[24-Apr-2020 14:53:26 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/database/db.php on line 12
+[24-Apr-2020 14:53:26 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/eatatbag/public_html/appointments/request/request.php on line 11
+[24-Apr-2020 14:53:26 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/eatatbag/public_html/appointments/request/request.php on line 13

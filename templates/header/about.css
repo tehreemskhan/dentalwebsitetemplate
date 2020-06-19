@@ -1,0 +1,138 @@
+/* .about_section_container {
+    margin-top: 100px;
+}
+.flex_about_container {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.who_card {
+    width: 30%;
+    height: 50%;
+
+}
+
+.who_card h3 {
+    font-size: 45px;
+}
+.who_card p {
+    font-size: 25px;
+}
+.story_card {
+    float: left;
+    width: 70%;
+}
+.story_card h3 {
+    font-size: 45px;
+}
+.story_card p {
+    font-size: 25px;
+}
+
+.image_container {
+    background-image: url("../../static//images/xray.jpg");
+    background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    
+    height: 500px;
+} */
+
+/* 
+.about_container {
+    margin-top: 150px;
+}
+.about_us_intro {
+    margin-left: 0px;
+    margin-bottom: 50px;
+    font-size: 80px;
+   
+    display: inline-block;
+}
+
+
+.article1_container {
+float: right;
+position: relative;
+width: 20%;
+bottom: 30px;
+top: 10px;
+}
+.who_is_dr_az {
+    margin-left: 5px;
+    font-size: 50px;
+    text-align:left;
+}
+.dr_az_desc {
+    width: 200px;
+    font-size: 19px;
+    text-align:left;
+}
+.article2_container {
+    width: 80%;
+    float: left;
+    text-align: left;
+}
+.para2_title {
+    
+    font-size: 35px;
+}
+.para2_desc {
+    font-size: 20px;
+} */
+
+body {
+    background-color: #EEEDE9 !important;
+}
+
+.new_about_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    margin-top: 100px;
+}
+.new_section1 {
+    width: 80%;
+    height: 100%;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.intro {
+    height: 50%;
+    width: 100%;
+}
+.photo {
+    height: 50%;
+    width: 100%;
+    margin-top: 50px;
+    margin-left: 45px;
+}
+.photo img:nth-child(2) {
+    margin-left: 30px;
+}
+.new_section1 h1 {
+    font-size: 60px;
+}
+.new_section1 p {
+    font-size: 20px !important;
+}
+.new_section2 {
+    width: 20%;
+    height: 100%;
+    height: 60vh;
+}
+.new_section2 h2 {
+    font-size: 45px !important;
+}
+.new_section2 p {
+    font-size: 20px !important;
+}
+.about_us_intro {
+    text-align: left !important;
+}
+

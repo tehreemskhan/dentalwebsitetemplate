@@ -1,0 +1,14 @@
+#slide_flex_container {
+    margin-top: 300px;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+.our_work_container {
+    position:relative;
+    top: 260px;
+}
+.our_work_container h2 {
+    font-size: 35px;
+    
+}

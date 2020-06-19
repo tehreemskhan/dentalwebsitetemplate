@@ -1,0 +1,151 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+@font-face {
+    font-family: "voga";
+    src: url("../../templates/voga-medium-webfont.woff");
+}
+body {
+    font-family: "voga", sans-serif;
+}
+
+
+@media (min-width: 1281px) {
+  
+    html {
+        width: 100%;
+        height: 100%;
+    }
+    
+    body {
+        /* background-image: url("../../static/images/dental.jpg"); */
+        background-size: cover;
+        background-position:center;
+        background-repeat: no-repeat;
+        
+    }
+    .request_form_outer {
+        margin-top: 200px;
+        /* margin-bottom: 65px; IF WHEN MAKING FOOTER GO DOWN THERE IS A PROBLEM THEN REMOVE THIS */
+    }
+    .make_appointment {
+        font-size: 40px !important;
+    }
+    #brand {
+        font-size: 25px;
+    }
+    .input_label {
+        font-weight: 800;
+    }
+    
+    .request_form_row {
+        margin-top: 30px;
+    }
+    .example_e {
+        border: none;
+        background: rgb(17, 17, 17);
+        color: #ffffff !important;
+        font-weight: 100;
+        padding: 20px;
+        text-transform: uppercase;
+        border-radius: 6px;
+        display: inline-block;
+        transition: all 0.3s ease 0s;
+        }
+        .example_e:hover {
+          text-decoration: none;
+          color: #404040!important;
+          font-weight: 700 !important;
+          letter-spacing: 3px;
+          background: white;
+          -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+          -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+          transition: all 0.3s ease 0s;
+          }
+  }
+  
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+    html {
+        width: 100%;
+        height: 100%;
+    }
+    /* OVERALL CONTAINER OF THE FLEX */
+    .flex_container {
+        display:flex;
+        justify-content: center;
+        height: 94vh;
+    }
+    /* FORM SECTION OF THE FLEX */
+    .flex1 {
+
+    }   
+    
+    .make_appointment {
+        font-size: 40px !important;
+    }
+    .links {
+        font-size: 20px;
+    }
+    #brand {
+        font-size: 25px;
+    }
+    .format {
+        font-size: 15px !important;
+    }
+    /* SUBMIT BUTTON */
+    .request_button_submit {
+        margin-top: 10px;
+    }
+    /* ACTUAL INSIDE OF THE FORM CONTAINER NOT THE FLEX'S TOP CONTAINER */
+    .section1 {
+        margin-top: 10px;
+    }
+    /* FLEX 2 CONTAINER */
+    .flex2 {       
+        background-image: url("../../static/images/dental.jpg");
+        background-size: cover;
+        background-position:center;
+        background-repeat: no-repeat;
+    }
+    /* THIS CLASS TARGETS ALL OF THE LABELS IN THE FORM */
+    .input_label {
+        font-weight: 800;
+        font-size: 25px;
+    }
+    
+    .request_form_row {
+        margin-top: 80px;
+    }
+    .example_e {
+        border: none;
+        background: rgb(17, 17, 17);
+        color: #ffffff !important;
+        font-weight: 100;
+        padding: 20px;
+        text-transform: uppercase;
+        border-radius: 6px;
+        display: inline-block;
+        transition: all 0.3s ease 0s;
+        }
+        .example_e:hover {
+          text-decoration: none;
+          color: #404040!important;
+          font-weight: 700 !important;
+          letter-spacing: 3px;
+          background: white;
+          -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+          -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+          transition: all 0.3s ease 0s;
+          }
+    
+  }
+  
+
+

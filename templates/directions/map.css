@@ -1,0 +1,40 @@
+
+
+
+  .map_flex_container {
+    margin-top: 200px;
+    display: grid;
+   grid-template-columns: 1fr 1fr;
+   grid-template-rows: 1fr 1fr;
+ 
+  }
+
+  .flex1, .flex2, .flex3, .flex4 {
+    font-family: "voga";
+    color: white;
+     margin-bottom: 20px;
+  }
+  .flex1 {
+    text-align: center;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #111;
+   
+  }
+  .flex3 {
+    text-align:center;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #111;
+  }
+
+  .corona-marquee {
+    color: red;
+    background-image: url(".../static/images/clinic.jpg");
+  }
